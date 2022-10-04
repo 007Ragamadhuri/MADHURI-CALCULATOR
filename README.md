@@ -1,2 +1,2 @@
 # MADHURI-CALCULATOR
-Creating calculator using HTML,CSS,JAVASCRIPT
+Creating Simple calculator using HTML,CSS,JAVASCRIPT
