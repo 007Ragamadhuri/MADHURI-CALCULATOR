@@ -1,2 +1,2 @@
 # MADHURI-CALCULATOR
-Creating Simple calculator using HTML,CSS,JAVASCRIPT
+• Developed a calculator used for performing basic mathematical operations like Addition, subtraction, multiplication, and division using HTML,CSS,JS 
